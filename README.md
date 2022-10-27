@@ -7,4 +7,6 @@ Execute Remote Assembly with args passing and with AMSI and ETW patching
 ![ExecAMSI](https://user-images.githubusercontent.com/110354855/190879568-2f8587a6-59f8-4d4f-8954-cbeea472c5e2.png)
 
 # Credits
-https://github.com/mez-0/InMemoryNET
+All the Credits goes to:  
+https://github.com/mez-0/InMemoryNET  
+This is an improved version of this project that supports AMSI & ETW patching and arguments parsing
