@@ -2,7 +2,7 @@
 Execute Remote Assembly with args passing and with AMSI and ETW patching  
 
 1 - the ExecRemoteAssembly is created only to run .NET assemblies , that are based on C# , to run binaries that are based on C/C++/ASM u can use the other project https://github.com/D1rkMtr/FilelessRemotePE  
-2 - the ExecRemoteAssembly accept only URI of type :    
+2 - the ExecRemoteAssembly accept URI of type :    
 https://domain.name/PathToUri  
 http://domain.name/PathToUri  
 [https/http]://ip:port/pathtoUri  
